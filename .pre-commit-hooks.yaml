@@ -1,0 +1,5 @@
+- id: shhgit
+  name: Detect hardcoded secrets
+  description: Detect hardcoded secrets using shhgit
+  entry: shhgit
+  language: golang
